@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Rise.Data\Rise.Data.csproj" />
+    <ProjectReference Include="..\Rise.Domain\Rise.Domain.csproj" />
+    <ProjectReference Include="..\Rise.Utility\Rise.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
