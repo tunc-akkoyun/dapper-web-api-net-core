@@ -1,3 +1,2 @@
 # Rise
-A starting point for Clean Architecture with ASP.NET Core.
-ASPNET CORE + DAPPER
+A starting point for Clean Architecture with ASP.NET Core & Dapper
